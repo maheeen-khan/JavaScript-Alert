@@ -1,0 +1,9 @@
+body{
+    background: linear-gradient(25deg, yellow, green);
+}
+h1{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 4rem;
+    text-align: center;
+    margin-top:30%;
+}
